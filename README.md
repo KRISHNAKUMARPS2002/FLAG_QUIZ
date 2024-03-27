@@ -8,7 +8,9 @@ This is a web application built with Express.js and PostgreSQL for a Flag Quiz g
 
 1. Clone the repository:
 
-2. Navigate to the project directory:
+*  https://github.com/KRISHNAKUMARPS2002/FLAG_QUIZ.git
+
+3. Navigate to the project directory:
 
 * cd flag-quiz
 
@@ -26,7 +28,7 @@ This is a web application built with Express.js and PostgreSQL for a Flag Quiz g
 
 * npm start
 
-3. 2. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to play the quiz.
+2. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to play the quiz.
 
 ## Features
 
